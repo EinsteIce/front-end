@@ -1,2 +1,2 @@
-# front-end
-html
+made by Einste
+html and css
